@@ -1,6 +1,6 @@
 /*
 	Name: Burak Uğur
-	Student ID:21822197  
+	Student ID:  
 	Date: 03.11.18 13:53
 	Description:C Logical Operators example
 */
