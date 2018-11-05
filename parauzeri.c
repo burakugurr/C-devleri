@@ -15,7 +15,7 @@ int main(){
 	if(para<urun){
 		printf("Yeterli para bulunmamaktadir urunu alamazsiniz ");
 	}
-	else{
+	else
 	para_ustu=para-urun;
 	printf("Para uzeriniz:%.2f",para_ustu);
 	}
