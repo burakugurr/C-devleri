@@ -1,5 +1,5 @@
 /*
-	Name: Burak Uður
+	Name: Burak UÄŸur
 	Student ID:21822197  
 	Date: 03.11.18 13:53
 	Description:C Logical Operators example
@@ -23,7 +23,7 @@ int main(){
 	
 	
 }
-/*Alternatif Çözüm
+/*Alternatif Ã‡Ã¶zÃ¼m
 float a;
 printf("-100 arasinda bir sayi giriniz:");
 scanf("%f",&a);
@@ -31,6 +31,6 @@ if(a>=&& a<=100)
 printf("Sayitanimli aralikta");
 
 else if(a>100 || a<1){
-printf("Hata sayi tanimli aralikta deðil");
+printf("Hata sayi tanimli aralikta deÄŸil");
 }
 */
