@@ -1,5 +1,5 @@
 /*
-	Name: Burak Uður
+	Name: Burak Ugur
 	Student ID:  
 	Date: 03.11.18 13:53
 	Description:C Logical Operators example
@@ -15,7 +15,7 @@ int main(){
 	if(para<urun){
 		printf("Yeterli para bulunmamaktadir urunu alamazsiniz ");
 	}
-	else
+	else{
 	para_ustu=para-urun;
 	printf("Para uzeriniz:%.2f",para_ustu);
 	}
